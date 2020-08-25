@@ -1,0 +1,12 @@
+apiVersion: v2
+appVersion: "1.0"
+description: A Helm chart for jjj-jjj App
+name: jjj-jjj
+home: https://github.com/hmcts/jjj-jjj
+version: 0.0.1
+maintainers:
+  - name: HMCTS jjj team
+dependencies:
+  - name: java
+    version: 3.0.2
+    repository: '@hmctspublic'

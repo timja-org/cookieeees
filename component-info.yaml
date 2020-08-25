@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "jjj-jjj"
+  description: jjj
+spec:
+  type: service
+  lifecycle: experimental
+  owner: timja
